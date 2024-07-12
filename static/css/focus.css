@@ -1,0 +1,5 @@
+.focus:hover{
+    transition: .2s;
+    cursor: pointer;
+    color: #D00A15;
+}

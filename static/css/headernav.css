@@ -1,0 +1,31 @@
+.header_box {
+    width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 20px 0;
+    justify-content: space-between;
+}
+
+.header_nav {
+    list-style: none;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 45px;
+    justify-content: space-between;
+    align-content: space-between;
+    /* column-count:8; */
+}
+
+.header_nav li {
+    width: 12%;
+    text-align: center;
+    /* column-fill: auto; */
+    /* padding-bottom: 10px;
+    box-sizing: border-box; */
+
+}
+
+.header_nav li a {
+    font-size: 14px;
+    color: #333333;
+}
